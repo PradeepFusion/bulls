@@ -2,3 +2,4 @@ no
 snake
 bited
 alive
+heaven=no;
