@@ -1,3 +1,4 @@
 no
 snake
 bited
+alive
